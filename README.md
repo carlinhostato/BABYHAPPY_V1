@@ -73,4 +73,4 @@ Aceder:
 
 📄 Licença
 
-Este projeto tem fins exclusivamente educativos.
+- Este projeto tem fins exclusivamente educativos.
